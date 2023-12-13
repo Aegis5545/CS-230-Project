@@ -10,7 +10,7 @@ If you could choose one part of your work on these documents to revise, what wou
 Recomendations were hard for me, sometimes it's really hard to give good reccomendations, as you kind of need to figure out how to make the program better in of itself too.
 
 How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
-I took the functionality of the game and helped split it up into different parts so that there would be less work and time spend expanding to other operating platforms. All while still keeping the game the same. Your client may be the one to ask you to do the work but it is the user's who truely control the product. If they don't trust the software or have problems with it then they won't use it and no more product.
+I took the functionality of the game and helped split it up into different parts so that there would be less work and time spend expanding to other operating platforms. All while still keeping the game the same. The client usually does most of the work, but it's important for the user to have a good amount of control as to what they can and can not do in your application.
 
 How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
-I put my focus on clear documentation and seperating game and game needs functionality to allow easier updates and maintenence.
+I put my focus on writing clear and concise code and seperating different parts of the game and what needed to be done into seperate little tasks that could get done, kind of like a laundry list of things that needed to be implemented/fixed within the application.
