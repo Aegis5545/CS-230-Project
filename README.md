@@ -1,5 +1,5 @@
 # CS-230 Project
-In Module 8, I worked with The Gaming Room on their project, "Draw It or Lost It" for Android. The client aimed to enhance software functionality and expand to other platforms. I effectively organized tasks in the design document, prioritizing key elements during the coding process.
+In Module 8, I worked with The Gaming Room on their project, "Draw It or Lose It" for Android. The client aimed to enhance software functionality and expand to other platforms. I effectively organized tasks in the design document, prioritizing key elements during the coding process.
 
 Reflecting on the experience, recommending improvements was challenging. Giving meaningful recommendations requires understanding how to enhance the program itself. I found the design document beneficial for maintaining focus and prioritizing tasks based on importance and time investment.
 
