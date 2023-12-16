@@ -1,16 +1,8 @@
-# CS-230-Project
-Module 8 Journal and Project
-Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design? What did you do particularly well in developing this documentation?
-The client was The Gaming Room. They were working on a game called Draw It or Lost It for Android. The Gaming Room wanted to improve the software functionality and to expand to other platforms.
+# CS-230 Project
+In Module 8, I worked with The Gaming Room on their project, "Draw It or Lost It" for Android. The client aimed to enhance software functionality and expand to other platforms. I effectively organized tasks in the design document, prioritizing key elements during the coding process.
 
-What about the process of working through a design document did you find helpful when developing the code?
-It helps you keep your focus on the current task on hand, and, helps to decide on what tasks are important and which ones don't need a lot of time to focus on.
+Reflecting on the experience, recommending improvements was challenging. Giving meaningful recommendations requires understanding how to enhance the program itself. I found the design document beneficial for maintaining focus and prioritizing tasks based on importance and time investment.
 
-If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
-Recomendations were hard for me, sometimes it's really hard to give good reccomendations, as you kind of need to figure out how to make the program better in of itself too.
+Addressing user needs was crucial; I segmented the game's functionality to streamline expansion to other platforms while preserving the core experience. Although clients usually handle most tasks, ensuring user control in the application is vital.
 
-How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
-I took the functionality of the game and helped split it up into different parts so that there would be less work and time spend expanding to other operating platforms. All while still keeping the game the same. The client usually does most of the work, but it's important for the user to have a good amount of control as to what they can and can not do in your application.
-
-How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
-I put my focus on writing clear and concise code and seperating different parts of the game and what needed to be done into seperate little tasks that could get done, kind of like a laundry list of things that needed to be implemented/fixed within the application.
+My software design approach centered on clear and concise code. I divided tasks into manageable components, creating a checklist for implementation and fixes. In the future, I plan to employ similar strategies for analyzing and designing software applications.
